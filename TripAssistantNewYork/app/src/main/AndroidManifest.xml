@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.abhishek.tripassistantnewyork">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".NiagraFalls"
+            android:label="@string/title_activity_niagra_falls"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".StatueOfLiberty"
+            android:label="@string/title_activity_statue_of_liberty"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".TimesSquare"
+            android:label="@string/title_activity_times_square"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".RockefellerCenter"
+            android:label="@string/title_activity_rockefeller_center"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".DisplayBrooklynBridgeInfo"
+            android:label="@string/title_activity_display_brooklyn_bridge_info"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".DisplayCentralParkInfo"
+            android:label="@string/title_activity_display_central_park_info"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".DisplayBroadwayInfo"
+            android:label="@string/title_activity_display_broadway_info"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".DisplayWtcInfo"
+            android:label="@string/title_activity_display_wtc_info"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".LongBeach"
+            android:label="@string/title_activity_long_beach"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".DisplayBroadwayInfo"
+    tools:showIn="@layout/activity_display_broadway_info">
+    <android.support.constraint.ConstraintLayout android:layout_height="match_parent"
+        android:layout_width="match_parent">
+
+        <ImageView
+            android:id="@+id/imageViewbw"
+            android:layout_width="match_parent"
+            android:layout_height="151dp"
+            android:scaleType="fitXY"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/broadway" />
+
+        <TextView
+            android:id="@+id/textViewbwdesc"
+            android:layout_width="wrap_content"
+            android:layout_height="22dp"
+            android:layout_marginStart="16dp"
+            android:text="Description"
+            android:textSize="18sp"
+            app:layout_constraintBaseline_toBaselineOf="@+id/editTextbw"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <EditText
+            android:id="@+id/editTextbw"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="8dp"
+            android:layout_marginStart="32dp"
+            android:layout_marginTop="16dp"
+            android:ems="10"
+            android:longClickable="false"
+            android:editable="false"
+            android:inputType="textMultiLine"
+            android:text="@string/bw_decs"
+            android:scrollbars="vertical"
+            android:gravity="top|left"
+            android:textColor="@android:color/black"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.466"
+            app:layout_constraintStart_toEndOf="@+id/textViewbwdesc"
+            app:layout_constraintTop_toBottomOf="@+id/imageViewbw"
+            tools:ignore="Deprecated" />
+
+        <TextView
+            android:id="@+id/textViewbwsr"
+            android:layout_width="87dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:text="Stay And\nRentals"
+            android:textSize="18sp"
+            app:layout_constraintBaseline_toBaselineOf="@+id/textViewbwsr1"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <TextView
+            android:id="@+id/textViewbwsr1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="8dp"
+            android:layout_marginTop="16dp"
+            android:text="@string/bwstayfirst"
+            android:textSize="18sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="@+id/editTextbw"
+            app:layout_constraintTop_toBottomOf="@+id/editTextbw" />
+
+        <TextView
+            android:id="@+id/textViewbwsr2"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="8dp"
+            android:layout_marginTop="8dp"
+            android:text="@string/bwstaysecond"
+            android:textSize="18sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="@+id/textViewbwsr1"
+            app:layout_constraintTop_toBottomOf="@+id/textViewbwsr1" />
+
+        <TextView
+            android:id="@+id/textViewbwsr3"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="8dp"
+            android:layout_marginTop="8dp"
+            android:text="@string/bwstaythird"
+            android:textSize="18sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="@+id/textViewbwsr2"
+            app:layout_constraintTop_toBottomOf="@+id/textViewbwsr2" />
+
+        <TextView
+            android:id="@+id/textViewbwres"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:text="Restaurants"
+            android:textSize="18sp"
+            app:layout_constraintBaseline_toBaselineOf="@+id/textViewbwres1"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <TextView
+            android:id="@+id/textViewbwres1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="8dp"
+            android:layout_marginTop="16dp"
+            android:textSize="18sp"
+            android:text="@string/bwrestfirst"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="@+id/textViewbwsr3"
+            app:layout_constraintTop_toBottomOf="@+id/textViewbwsr3" />
+
+        <TextView
+            android:id="@+id/textViewbwres2"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="8dp"
+            android:layout_marginTop="8dp"
+            android:text="@string/bwrestsecond"
+            android:textSize="18sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="@+id/textViewbwres1"
+            app:layout_constraintTop_toBottomOf="@+id/textViewbwres1" />
+
+        <TextView
+            android:id="@+id/textViewbwres3"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="8dp"
+            android:layout_marginTop="8dp"
+            android:text="@string/bwrestthird"
+            android:textSize="18sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="@+id/textViewbwres2"
+            app:layout_constraintTop_toBottomOf="@+id/textViewbwres2" />
+
+        <TextView
+            android:id="@+id/textViewbwmode"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:text="Best mode"
+            android:textSize="18sp"
+            app:layout_constraintBaseline_toBaselineOf="@+id/textViewbwmode1"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <TextView
+            android:id="@+id/textViewbwmode1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="8dp"
+            android:layout_marginTop="12dp"
+            android:text="Subway"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="@+id/textViewbwres3"
+            app:layout_constraintTop_toBottomOf="@+id/textViewbwres3" />
+
+        <TextView
+            android:id="@+id/textViewbwcost"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:text="Estimated cost"
+            android:textSize="18sp"
+            app:layout_constraintBaseline_toBaselineOf="@+id/textViewbwcost1"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <TextView
+            android:id="@+id/textViewbwcost1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="8dp"
+            android:layout_marginTop="16dp"
+            android:text="250$ per person per day"
+            android:textColor="@android:color/background_dark"
+            android:textSize="18sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="@+id/textViewbwmode1"
+            app:layout_constraintTop_toBottomOf="@+id/textViewbwmode1" />
+        <Button
+            android:id="@+id/bwsharebtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:layout_marginTop="8dp"
+            android:text="Share"
+            android:onClick="bwshareChooserIntent"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textViewbwcost1"
+            tools:ignore="OnClick" />
+
+
+
+    </android.support.constraint.ConstraintLayout>
+
+
+</ScrollView>

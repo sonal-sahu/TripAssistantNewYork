@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name">TripAssistantNewYork</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_share">Share</string>
+    //WTC
+    <string name="title_activity_display_wtc_info">World Trade Center</string>
+    <string name="wtc_decs">The original World Trade Center was a large complex of seven buildings in Lower Manhattan, New York City, United States. It featured the landmark Twin Towers, which opened on April 4, 1973 and were destroyed in 2001 during the September 11 attacks. At the time of their completion, the Twin Towers — the original 1 World Trade Center, at 1,368 feet (417 m); and 2 World Trade Center, at 1,362 feet (415.1 m) — were the tallest buildings in the world. Other buildings in the complex included the Marriott World Trade Center (3 WTC), 4 WTC, 5 WTC, 6 WTC, and 7 WTC. The complex was located in New York Citys Financial District and contained 13,400,000 square feet (1,240,000 m2) of office space.</string>
+    <string name="stayairpnb"><a href="https://www.airbnb.com">Airbnb</a></string>
+    <string name="staypriceline"><a href="https://www.priceline.com/hotels/">Price Line</a></string>
+    <string name="staywtcthird"><a href="https://www.expedia.com/Hotels">Expedia</a></string>
+    <string name="restwtcfirst"><a href="https://www.eataly.com/us_en/stores/nyc-downtown/">Eataly NYC Downtowne</a></string>
+    <string name="restwtcsecond"><a href="https://www.trinityplacenyc.com/">Trinity Place</a></string>
+    <string name="restwtcthird"><a href="https://www.bluesmoke.com/">Blue Smoke</a></string>
+    //Long Beach
+    <string name="lb_decs">Long Beach is a city in Nassau County, New York, United States. Just south of Long Island, it is located on Long Beach Barrier Island, which is the westernmost of the outer barrier islands off Long Islands South Shore. As of the United States 2010 Census, the city population was 33,275. It was incorporated in 1922, and is nicknamed The City By the Sea (as seen in Latin on its official seal). The city of Long Beach is surrounded by Reynolds Channel to the north, east and west, and the Atlantic Ocean to the south. As of January 1, 2018, Michael Tangney is the acting city manager, a position appointed by the City Council. It has been Democratic for many years.</string>
+    <string name="staylbfirst"><a href="https://www.allegriahotelny.com/">Allegria Hotel</a></string>
+    <string name="staylbsecond"><a href="http://www.rockvillecentreinn.com/">Rockville Center Inn</a></string>
+    <string name="staylbthird"><a href="http://www.longbeachhotelny.com/">Long Beach Hotel</a></string>
+    <string name="restlbfirst"><a href="http://www.grottalbny.com/">Grotto Di Fuoco</a></string>
+    <string name="restlbsecond"><a href="http://www.lbsocialny.com/">LB Social</a></string>
+    <string name="restlbthird"><a href="http://www.swingbellyslongbeach.com/">Swingbelly BBQ</a></string>
+    <string name="title_activity_design_lblayout">Long Beach</string>
+    //Niagra Falls
+    <string name="nf_decs">Niagara Falls (/naɪˈæɡərə/) is the collective name for three waterfalls that straddle the international border between the Canadian province of Ontario and the American state of New York. They form the southern end of the Niagara Gorge.
+From largest to smallest, the three waterfalls are the Horseshoe Falls, the American Falls and the Bridal Veil Falls. The Horseshoe Falls lies on the border of the United States and Canada[1] with the American Falls entirely on the United States\' side, separated by Goat Island. The smaller Bridal Veil Falls are also on the United States side, separated from the American Falls by Luna Island.
+Located on the Niagara River, which drains Lake Erie into Lake Ontario, the combined falls form the highest flow rate of any waterfall in North America that has a vertical drop of more than 165 feet (50 m). During peak daytime tourist hours, more than six million cubic feet (168,000 m3) of water goes over the crest of the falls every minute. Horseshoe Falls is the most powerful waterfall in North America, as measured by flow rate.
+The falls are 17 miles (27 km) north-northwest of Buffalo, New York, and 75 miles (121 km) south-southeast of Toronto, between the twin cities of Niagara Falls, Ontario, and Niagara Falls, New York. Niagara Falls was formed when glaciers receded at the end of the Wisconsin glaciation (the last ice age), and water from the newly formed Great Lakes carved a path through the Niagara Escarpment en route to the Atlantic Ocean.</string>
+    <string name="staynffirst"><a href="https://www.moonliteniagarafalls.com/">Moonlite Hotel Niagra falls</a></string>
+    <string name="staynfsecond"><a href="http://www.redcoach.com/">The Red Coach Inn</a></string>
+    <string name="staynfthird"><a href="http://www.starwoodhotels.com/sheraton/property/overview/index.html?propertyID=1330">Sheraton Niagra Falls</a></string>
+    <string name="restnffirst"><a href="https://www.fujigrillny.com/">Fuji Grill</a></string>
+    <string name="restnfsecond"><a href="http://anindianzaika.com/">Zaika Indian Cuisine</a></string>
+    <string name="restnfthird"><a href="http://www.hardrock.com/cafes/niagara-falls-usa/">Hard Rock Cafe</a></string>
+    <string name="title_activity_design_nflayout">Niagra Falls</string>
+    <string name="title_activity_niagra_falls">Niagra Falls</string>
+    //Statue Of Liberty
+    <string name="sol_decs">The Statue of Liberty (Liberty Enlightening the World; French: La Liberté éclairant le monde) is a colossal neoclassical sculpture on Liberty Island in New York Harbor in New York City, in the United States. The copper statue, a gift from the people of France to the people of the United States, was designed by French sculptor Frédéric Auguste Bartholdi and built by Gustave Eiffel. The statue was dedicated on October 28, 1886.
+         The Statue of Liberty is a figure of a robed woman representing Libertas, a Roman liberty goddess. She holds a torch above her head with her right hand, and in her left hand carries a tabula ansata inscribed in Roman numerals with "JULY IV MDCCLXXVI" (July 4, 1776), the date of the U.S. Declaration of Independence. A broken chain lies at her feet. The statue became an icon of freedom and of the United States, and was a welcoming sight to immigrants arriving from abroad</string>
+    <string name="staysolfirst"><a href="http://riffdowntown.com/">Riff Downtown</a></string>
+    <string name="staysolsecond"><a href="https://www.worldcenterhotel.com/">World Center Hotel</a></string>
+    <string name="staysolthird"><a href="https://dharmahomesuites.com/">Dharma Home Suites</a></string>
+    <string name="restsolfirst"><a href="http://thestatueofliberty.com/food-service/">Statue Of Liberty Crown Cafe</a></string>
+    <string name="restsolsecond"><a href="https://gigino-wagnerpark.com/">Gigino at Wagner Park</a></string>
+    <string name="restsolthird"><a href="https://www.piera.com/">City Pear A</a></string>
+    <string name="title_activity_statue_of_liberty">Statue Of Liberty</string>
+    //Times Square
+    <string name="ts_decs">Times Square is a major commercial intersection, tourist destination, entertainment center and neighborhood in the Midtown Manhattan section of New York City at the junction of Broadway and Seventh Avenue. It stretches from West 42nd to West 47th Streets.Brightly adorned with billboards and advertisements, Times Square is sometimes referred to as "The Crossroads of the World", "The Center of the Universe","the heart of The Great White Way", and the "heart of the world". One of the world's busiest pedestrian areas, it is also the hub of the Broadway Theater District and a major center of the world's entertainment industry. Times Square is one of the world's most visited tourist attractions, drawing an estimated 50 million visitors annually. Approximately 330,000 people pass through Times Square daily, many of them tourists,while over 460,000 pedestrians walk through Times Square on its busiest days.</string>
+    <string name="staytsfirst"><a href="https://www.thetimehotels.com/new-york">The Time New York</a></string>
+    <string name="staytssecond"><a href="https://www.riu.com/en/hotel/usa/new-york/hotel-riu-plaza-new-york-times-square/index.jsp">RIU Plaza New York</a></string>
+    <string name="staytsthird"><a href="http://www.themaritimehotel.com/">The Maritime Hotel</a></string>
+    <string name="resttsfirst"><a href="https://www.carminesnyc.com/locations/times-square">Carmines</a></string>
+    <string name="resttssecond"><a href="https://www.olivegarden.com/home">Olive Garden</a></string>
+    <string name="resttsthird"><a href="https://havanacentral.com/">Havana Central</a></string>
+    <string name="title_activity_times_square">Times Square</string>
+    //Rockefeller Center
+    <string name="roc_decs">Rockefeller Center is a large complex consisting of 19 commercial buildings covering 22 acres (89,000 m2) between 48th and 51st Streets, facing Fifth Avenue, in New York City. Commissioned by the Rockefeller family, it is located in the center of Midtown Manhattan. The 14 original Art Deco buildings span the area between Fifth and Sixth Avenues, split by a large sunken square and a private street called Rockefeller Plaza. Five International Style buildings, built later, are located on the west side of Sixth Avenue and at the head of Rockefeller Plaza.</string>
+    <string name="stayrocfirst"><a href="http://conradhotels3.hilton.com/en/hotels/new-york/the-london-nyc-NYCCNCI/index.html">The London New York</a></string>
+    <string name="stayrocsecond"><a href="http://mayfairnewyork.com/">Mayfair New York</a></string>
+    <string name="stayrocthird"><a href="https://www.publichotels.com/">PUBLIC</a></string>
+    <string name="restrocfirst"><a href="https://www.patinagroup.com/the-sea-grill">The Sea Grill</a></string>
+    <string name="restrocsecond"><a href="https://www.harrysitalian.com/">Harrys Italian Pizza Bar</a></string>
+    <string name="restrocthird"><a href="https://rainbowroom.com/">Rainbow Room</a></string>
+    <string name="title_activity_rockefeller_center">Rockefeller Center</string>
+
+    //Brooklyn Bridge
+    <string name="title_activity_display_brooklyn_bridge_info">Brooklyn Bridge</string>
+    <string name="bb_decs">The Brooklyn Bridge is a hybrid cable-stayed/suspension bridge in New York City and is one of the oldest roadway bridges in the United States. Started in 1869 and completed fourteen years later in 1883, it connects the boroughs of Manhattan and Brooklyn, spanning the East River.Since opening, it has become an icon of New York City and was designated a National Historic Landmark in 1964 and a National Historic Civil Engineering Landmark in 1972.</string>
+    <string name="bbstayfirst"><a href="https://www.trivago.com/">Trivago</a></string>
+    <string name="bbstaysecond"><a href="https://www.booking.com/">Booking.com</a></string>
+    <string name="bbstaythird"><a href="https://www.travelocity.com/">Travelocity</a></string>
+
+    <string name="bbrestfirst"><a href="https://rivercafe.com/">The River Cafe</a></string>
+    <string name="bbrestsecond"><a href="https://www.shakeshack.com/location/dumbo-brooklyn-nyc/">Shake Shack</a></string>
+    <string name="bbrestthird"><a href="https://julianaspizza.com/">Julianas</a></string>
+
+    // Central Park
+    <string name="title_activity_display_central_park_info">Central Park</string>
+    <string name="cp_decs">Central Park is an urban park in Manhattan, New York City. It is located between the Upper West Side and Upper East Side, roughly bounded by Fifth Avenue on the east, Central Park West (Eighth Avenue) on the west, Central Park South (59th Street) on the south, and Central Park North (110th Street) on the north. Central Park is the most visited urban park in the United States, with 40 million visitors in 2013, and one of the most filmed locations in the world. In terms of area, Central Park is the fifth-largest park in New York City, covering 843 acres</string>
+    <string name="cpstayfirst"><a href="https://www.orbitz.com/">Orbitz</a></string>
+    <string name="cpstaysecond"><a href="https://www.agoda.com/">Agoda</a></string>
+    <string name="cpstaythird"><a href="https://www.hoteltonight.com/">Hotel Tonight</a></string>
+
+    <string name="cprestfirst"><a href="http://www.thecentralparkboathouse.com/">The Loeb Boathouse</a></string>
+    <string name="cprestsecond"><a href="https://www.tavernonthegreen.com/menu/">Tavern on the Green</a></string>
+    <string name="cprestthird"><a href="http://www.jean-georgesrestaurant.com/jean-georges/">Jean Georges</a></string>
+
+    //Broadway Theatre
+    <string name="title_activity_display_broadway_info">Broadway Theatre</string>
+    <string name="bw_decs">The Broadway Theatre is a Broadway theatre located in midtown Manhattan. It has a large seating capacity of 1,761, and unlike most Broadway theaters, it is actually located on Broadway, at number 1681.he Shubert Organization bought the theater in 1939 and renovated it extensively in 1956 and 1986. It has long been a popular theatre for producers of musicals because of large seating capacity, and the large stage, which is nearly sixty feet deep. Often plays that have become successful in smaller theaters have transferred to the Broadway Theatre.</string>
+    <string name="bwstayfirst"><a href="https://www.expedia.com/Hotels">Expedia</a></string>
+    <string name="bwstaysecond"><a href="https://www.trivago.com/">Trivago</a></string>
+    <string name="bwstaythird"><a href="https://www.hoteltonight.com/">Hotel Tonight</a></string>
+
+    <string name="bwrestfirst"><a href="https://victorscafe.com/">Victors Cafe</a></string>
+    <string name="bwrestsecond"><a href="http://toloachenyc.com/mobile/home.html">Toloache</a></string>
+    <string name="bwrestthird"><a href="http://www.cieloatthemayfair.com/">Cielo at The Mayfair</a></string>
+    <string name="title_activity_long_beach">Long Beach</string>
+
+
+</resources>
